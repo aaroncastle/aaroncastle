@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aaroncastle&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=installSSR)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=tips)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=memories)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=practise)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncastle&layout=compact&hide=html)
