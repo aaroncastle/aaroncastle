@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=tips)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=memories)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=practise)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncastle&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncastle&layout=compact)
