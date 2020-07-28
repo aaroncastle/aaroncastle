@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aaroncastle&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aaroncastle&show_icons=true&theme=radical&count_private=true)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=installSSR)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=tips)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaroncastle&repo=memories)
